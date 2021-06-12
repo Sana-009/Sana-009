@@ -1,5 +1,5 @@
 <h1><b> Hi Peeps !! 👋</b></h1>
-<p>I am Sayanya,<br>Practical and versatile undergraduate student passionate about learning technical skills and collaborating on new projects in IT field.<br>
+<p>Call me Sayanya,<br>Practical and versatile undergraduate student passionate about learning technical skills and collaborating on new projects in IT field.<br>
   Never afraid of 
 learning new languages and enhancing existing skills.</p>
 
